@@ -10,5 +10,11 @@
   },
   "devDependencies": {
     "vite": "^3.1.0"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "howler": "^2.2.3",
+    "three": "^0.144.0",
+    "three-debug-draw": "^0.1.0"
   }
 }
